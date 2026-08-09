@@ -61,4 +61,8 @@ Dự án được định hướng bởi 3 câu hỏi kinh doanh/nghiên cứu c
 ## 🚀 Hướng dẫn chạy dự án (How to Use)
 1. Clone repository này về máy của bạn:
    ```bash
+<<<<<<< HEAD
    git clone [Điền link GitHub của bạn vào đây]
+=======
+   git clone [Điền link GitHub của bạn vào đây]
+>>>>>>> 40e6efe4eefb5b2eec4b877a697e2a0b10f28162
